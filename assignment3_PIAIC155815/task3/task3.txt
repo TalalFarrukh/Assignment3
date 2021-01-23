@@ -1,0 +1,18 @@
+Output for a:
+give condition for variable a is true
+
+Output for b:
+No output, condition was not true
+
+Output for c:
+condition 2 is true
+condition 4 is true
+
+Output for d:
+the cost equals
+
+Output for e:
+True
+
+Output for f:
+car is smaller than cat
